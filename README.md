@@ -1,12 +1,12 @@
 # Linear-Algebra
 
-# This repo is a refresher about Linear Algebra needed for AI/ML engineering roadmap
+## This repo is a refresher about Linear Algebra needed for AI/ML engineering roadmap
 
-# Content in this repo
+### Content in this repo
 
 ![alt text](images/content.jpg)
 
-## Checklist
+#### Checklist
 
 - [] Introductions to Vectors
 - [] Solving Linear Equations
